@@ -1,4 +1,3 @@
-import static Algorithm.Basics.AppleOrange.AppleOrange;
 
 public class Main {
 
@@ -26,6 +25,7 @@ public class Main {
 //        BonAppetit();
 //        HumanReadableTime();
 //        DesignerPDFViewer();
-        AppleOrange();
+//        AppleOrange();
+//        BeautifulDays();
     }
 }
