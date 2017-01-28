@@ -14,7 +14,6 @@ public class AppendDelete {
 
         int count = 0;
 
-        for(int i = 0; i < o)
 
     }
 }

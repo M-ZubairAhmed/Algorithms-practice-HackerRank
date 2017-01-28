@@ -3,7 +3,7 @@ package com.mzubairahmed;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class hackerrank_ExtraLongFactorials {
+public class ExtraLongFactorials {
 
     public static void hackerrank_ExtraLongFactorials(){
 

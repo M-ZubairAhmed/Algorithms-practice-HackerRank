@@ -2,7 +2,7 @@ package com.mzubairahmed;
 
 import java.util.Scanner;
 
-public class hackerrank_simplesum {
+public class Simplesum {
     public static void hackerrank_simplesum(){
 
         Scanner scan = new Scanner(System.in);

@@ -2,7 +2,7 @@ package com.mzubairahmed;
 
 import java.util.Scanner;
 
-public class hackerrank_timeConversion {
+public class TimeConversion {
     public static void hackerrank_timeConversion(){
 
         Scanner scan = new Scanner(System.in);

@@ -1,6 +1,6 @@
 package com.mzubairahmed;
 
-public class hacerrank_CircularArrayRotation {
+public class CircularArrayRotation {
     public static void  hacerrank_CircularArrayRotation(){
 
 

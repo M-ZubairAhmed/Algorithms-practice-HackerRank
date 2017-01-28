@@ -2,7 +2,7 @@ package com.mzubairahmed;
 
 import java.util.Scanner;
 
-public class HackerRank_Staircase {
+public class Staircase {
     public static void hackerrank_staircase(){
 
         Scanner scan  = new Scanner(System.in);

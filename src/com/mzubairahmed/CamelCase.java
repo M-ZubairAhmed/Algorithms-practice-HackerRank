@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by zub on 27/01/2017.
  */
-public class hackerrank_CamelCase {
+public class CamelCase {
     public static void hackerrank_CamelCase(){
 
         Scanner scan = new Scanner(System.in);
