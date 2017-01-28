@@ -1,4 +1,4 @@
-package com.mzubairahmed;
+package com.Algorithm.Basics;
 
 import java.util.Arrays;
 import java.util.Scanner;

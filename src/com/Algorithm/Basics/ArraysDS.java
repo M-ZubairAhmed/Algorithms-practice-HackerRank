@@ -1,15 +1,17 @@
-package com.mzubairahmed;
+package com.Algorithm.Basics;
 
 import java.util.Scanner;
 
-public class Kangaroo {
-    public static void Kangaroo() {
+public class ArraysDS {
+    public static void ArraysDS(){
 
         Scanner scan = new Scanner(System.in);
+        int sizeAr = scan.nextInt();
+        scan.nextLine();
         String nArray = scan.nextLine();
         scan.close();
 
-        int[] arr = new int[5];
+        int[]arr = new int[sizeAr];
         int ini = 0;
         int cur = 0;
         for (int i = 0; i < nArray.length(); i++) {
@@ -22,25 +24,17 @@ public class Kangaroo {
                 arr[cur] = Integer.valueOf(nArray.substring(ini, nArray.length()));
             }
         }
-        int com = 0;
-        int d1 = arr[1];
-        int a1 = arr[0];
-        int d2 = arr[3];
-        int a2 = arr[2];
-        for (int i = 0; i <= 10000; i++){
-            int n1 = a1 + ((i - 1)*d1);
-            int n2 = a2 + ((i - 1)*d2);
-            if (n1 == n2){
-                com++;
-                break;
-            }
-        }
-        if (com == 0){
-            System.out.println("NO");
-        }
-        else {
-            System.out.println("YES");
+
+        for (int j = 0; j < arr.length; j++){
+//
+//            if(j == arr.length - 1){
+//                System.out.print(arr[j - 1]);
+//            }
+//            else {
+                System.out.print(arr[arr.length - j -1] + " ");
+//            }
         }
 
     }
+
 }

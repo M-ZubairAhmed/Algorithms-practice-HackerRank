@@ -1,6 +1,5 @@
-package com.mzubairahmed;
-import static com.mzubairahmed.AppendDelete.AppendDelete;
-import static com.mzubairahmed.CircularArrayRotation.CircularArrayRotation;
+package com.Algorithm;
+import static com.Algorithm.Basics.BonAppetit.BonAppetit;
 
 public class Main {
 
@@ -10,7 +9,7 @@ public class Main {
 //        hackerrank_staircase();
 //        TimeConversion();
 //        Simplesum();
-        CircularArrayRotation();
+//        CircularArrayRotation();
 //        CamelCase();
 //        ExtraLongFactorials();
 //        TimeInWords();
@@ -25,5 +24,6 @@ public class Main {
 //        AngryProfessor();
 //        FindDigits();
 //        AppendDelete(); not yet completed
+        BonAppetit();
     }
 }
