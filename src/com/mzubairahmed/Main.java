@@ -1,5 +1,6 @@
 package com.mzubairahmed;
 import static com.mzubairahmed.AppendDelete.AppendDelete;
+import static com.mzubairahmed.CircularArrayRotation.CircularArrayRotation;
 
 public class Main {
 
@@ -9,7 +10,7 @@ public class Main {
 //        hackerrank_staircase();
 //        TimeConversion();
 //        Simplesum();
-//        CircularArrayRotation(); not yet completed
+        CircularArrayRotation();
 //        CamelCase();
 //        ExtraLongFactorials();
 //        TimeInWords();
@@ -23,6 +24,6 @@ public class Main {
 //        SockMerchant();
 //        AngryProfessor();
 //        FindDigits();
-        AppendDelete();
+//        AppendDelete(); not yet completed
     }
 }
