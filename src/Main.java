@@ -1,5 +1,3 @@
-import static Algorithm.Basics.HumanReadableTime.HumanReadableTime;
-import static Algorithm.Basics.DesignerPDFViewer.DesignerPDFViewer;
 import static Algorithm.Basics.AppleOrange.AppleOrange;
 
 public class Main {
