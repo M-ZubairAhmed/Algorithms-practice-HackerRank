@@ -1,5 +1,4 @@
-package com.Algorithm;
-import static com.Algorithm.Basics.BonAppetit.BonAppetit;
+import static Algorithm.Basics.BonAppetit.BonAppetit;
 
 public class Main {
 

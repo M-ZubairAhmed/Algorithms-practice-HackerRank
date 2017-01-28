@@ -1,4 +1,4 @@
-package com.Algorithm.Basics;
+package Algorithm.Basics;
 
 import java.math.BigInteger;
 import java.util.Scanner;
