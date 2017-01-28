@@ -1,4 +1,4 @@
-import static Algorithm.Basics.BonAppetit.BonAppetit;
+import static Algorithm.Basics.HumanReadableTime.HumanReadableTime;
 
 public class Main {
 
@@ -23,6 +23,7 @@ public class Main {
 //        AngryProfessor();
 //        FindDigits();
 //        AppendDelete(); not yet completed
-        BonAppetit();
+//        BonAppetit();
+        HumanReadableTime();
     }
 }
