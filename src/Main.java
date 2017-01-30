@@ -32,6 +32,8 @@ public class Main {
 //        ModifyTheSeq();
 //        SuperReducedStrings();
 //        Panagram();
+//        CaesarCipher();
+//        MarsExploration();
 
 
     }
