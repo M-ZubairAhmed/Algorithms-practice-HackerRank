@@ -1,3 +1,4 @@
+import static Algorithm.Strings.FunnyStrings.FunnyStrings;
 public class Main {
 
     public static void main(String[] args) {
@@ -34,6 +35,7 @@ public class Main {
 //        Panagram();
 //        CaesarCipher();
 //        MarsExploration();
+    FunnyStrings();
 
 
     }
