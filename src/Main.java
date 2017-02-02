@@ -1,4 +1,4 @@
-import static Algorithm.Strings.FunnyStrings.FunnyStrings;
+import static Algorithm.Strings.SherlockValidString.SherlockValidString;
 public class Main {
 
     public static void main(String[] args) {
@@ -35,8 +35,10 @@ public class Main {
 //        Panagram();
 //        CaesarCipher();
 //        MarsExploration();
-    FunnyStrings();
-
-
+//        FunnyStrings();
+//        GameofThrones_I();
+//        Encryption();
+//        ModifiedKaprekarNumber();
+        SherlockValidString();
     }
 }
