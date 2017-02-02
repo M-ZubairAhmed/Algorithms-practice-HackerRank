@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import static Algorithm.Strings.AlternatingCharacters.AlternatingCharacters;
+=======
+import static Algorithm.Strings.SherlockValidString.SherlockValidString;
+>>>>>>> origin/master
 public class Main {
 
     public static void main(String[] args) {
@@ -36,8 +40,15 @@ public class Main {
 //        CaesarCipher();
 //        MarsExploration();
 //        FunnyStrings();
+<<<<<<< HEAD
 //        Gemstones();
         AlternatingCharacters();
 
+=======
+//        GameofThrones_I();
+//        Encryption();
+//        ModifiedKaprekarNumber();
+        SherlockValidString();
+>>>>>>> origin/master
     }
 }
