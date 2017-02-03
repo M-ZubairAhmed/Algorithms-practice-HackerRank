@@ -1,4 +1,4 @@
-import static Algorithm.Strings.SherlockValidString.SherlockValidString;
+import static Algorithm.Strings.HappyLadyBugs.HappyLadyBugs;
 public class Main {
 
     public static void main(String[] args) {
@@ -42,6 +42,7 @@ public class Main {
 //        GameofThrones_I();
 //        Encryption();
 //        ModifiedKaprekarNumber();
-        SherlockValidString();
+//        SherlockValidString();
+        HappyLadyBugs();
     }
 }
