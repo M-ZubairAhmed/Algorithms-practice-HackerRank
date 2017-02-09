@@ -1,4 +1,3 @@
-import static Algorithm.Strings.HappyLadyBugs.HappyLadyBugs;
 public class Main {
 
     public static void main(String[] args) {
@@ -38,11 +37,12 @@ public class Main {
 //        FunnyStrings();
 //        Gemstones();
 //        AlternatingCharacters();
-
 //        GameofThrones_I();
 //        Encryption();
 //        ModifiedKaprekarNumber();
 //        SherlockValidString();
-        HappyLadyBugs();
+//        HappyLadyBugs();
+//        LibraryFine();
+//        CutTheSticks();
     }
 }
