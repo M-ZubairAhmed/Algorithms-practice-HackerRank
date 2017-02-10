@@ -1,4 +1,5 @@
-import static Algorithm.Strings.LoveLetterMystery.LoveLetterMystery;
+import static Algorithm.Strings.PalindromeIndex.PalindromeIndex;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -46,6 +47,8 @@ public class Main {
 //        CutTheSticks();
 //        BeautifulTriplets();
 //        SherlockAndSquare();
-        LoveLetterMystery();
+//        LoveLetterMystery();
+//        BinaryBeautifulString();
+        PalindromeIndex();
     }
 }
