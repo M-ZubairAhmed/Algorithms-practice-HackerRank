@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-
 //        hackerrank_plusminus();
 //        hackerrank_staircase();
 //        TimeConversion();
@@ -44,5 +43,7 @@ public class Main {
 //        HappyLadyBugs();
 //        LibraryFine();
 //        CutTheSticks();
+//        BeautifulTriplets();
+//        SherlockAndSquare();
     }
 }
