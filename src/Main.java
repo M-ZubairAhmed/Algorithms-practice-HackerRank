@@ -1,3 +1,4 @@
+import static Algorithm.Strings.LoveLetterMystery.LoveLetterMystery;
 public class Main {
 
     public static void main(String[] args) {
@@ -45,5 +46,6 @@ public class Main {
 //        CutTheSticks();
 //        BeautifulTriplets();
 //        SherlockAndSquare();
+        LoveLetterMystery();
     }
 }
