@@ -50,5 +50,8 @@ public class Main {
 //        BinaryBeautifulString();
 //        PalindromeIndex();
 //        TwoString();
+//        MigratoryBird();
+//        MinimumAbsoluteDifferenceInArray();
+//        HackerRankInString();
     }
 }
