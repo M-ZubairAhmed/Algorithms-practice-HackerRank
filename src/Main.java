@@ -1,4 +1,3 @@
-import static Algorithm.Strings.PalindromeIndex.PalindromeIndex;
 
 public class Main {
 
@@ -49,6 +48,7 @@ public class Main {
 //        SherlockAndSquare();
 //        LoveLetterMystery();
 //        BinaryBeautifulString();
-        PalindromeIndex();
+//        PalindromeIndex();
+//        TwoString();
     }
 }
