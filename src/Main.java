@@ -1,6 +1,6 @@
-import static JavaLang.Introduction.JavaOutputFormatting.JavaOutputFormatting;
+import static Challenges.DayOfProgrammer.test;
 public class Main {
     public static void main(String[] args) {
-        JavaOutputFormatting();
+        test();
     }
 }
