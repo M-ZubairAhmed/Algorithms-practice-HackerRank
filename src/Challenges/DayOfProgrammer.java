@@ -31,7 +31,7 @@ public class DayOfProgrammer {
     }
 
     private static char getCalendarSystem(int year) {
-        if (year >= 1700 && year <= 1917) {
+        if (year <= 1917) {
             return 'J';
         } else if (year >= 1919) {
             return 'G';
